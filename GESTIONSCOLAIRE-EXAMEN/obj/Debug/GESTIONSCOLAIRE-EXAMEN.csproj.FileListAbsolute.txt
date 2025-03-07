@@ -1,0 +1,16 @@
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\GESTIONSCOLAIRE-EXAMEN.exe.config
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\GESTIONSCOLAIRE-EXAMEN.exe
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\GESTIONSCOLAIRE-EXAMEN.pdb
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE-EXAMEN.csproj.AssemblyReference.cache
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE_EXAMEN.Properties.Resources.resources
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE-EXAMEN.csproj.GenerateResource.cache
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE-EXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE-EXAMEN.exe
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE-EXAMEN.pdb
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\EntityFramework.dll
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\EntityFramework.xml
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE_EXAMEN.Form1.resources
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONS.6E436A8F.Up2Date
+C:\Users\doudou Apple\source\repos\GESTIONSCOLAIRE-EXAMEN\GESTIONSCOLAIRE-EXAMEN\obj\Debug\GESTIONSCOLAIRE_EXAMEN.Migrations.examenmigration.resources
