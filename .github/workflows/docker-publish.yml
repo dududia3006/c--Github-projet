@@ -1,0 +1,27 @@
+name: Docker Build & Push
+
+on:
+  push:
+    branches:
+      - main  # Déclenche le workflow sur chaque push sur la branche principale
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+
+      - name: Connexion à DockerHub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Construction et push de l'image
+        run: |
+          docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/my-http-server:latest .
+          docker tag ${{ secrets.DOCKERHUB_USERNAME }}/my-http-server:latest ${{ secrets.DOCKERHUB_USERNAME }}/my-http-server:v1.0
+          docker push ${{ secrets.DOCKERHUB_USERNAME }}/my-http-server:latest
+          docker push ${{ secrets.DOCKERHUB_USERNAME }}/my-http-server:v1.0
